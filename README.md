@@ -1,3 +1,6 @@
+<center><h1>A Better Calculator</h1></center>
+<center><img src="icon.png" referrerpolicy="no-referrer" alt="icon" width="30%"></center>
+
 <center><h4>This project was made by Group 9, Section 4, EGR100, 2023 Spring.</h4></center>
 
 <center><p>Copyright (c) 2023 ABetterCalculator</p></center>
