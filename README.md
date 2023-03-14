@@ -7,4 +7,4 @@
 
 <center><a href='https://github.com/ABCalculator'><img src="https://img.shields.io/badge/-Follow_Us_On_GitHub-222222?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white" referrerpolicy="no-referrer" alt="GitHub"></a></center>
 
-<center><a href='https://abcalculator.github.io/portal/'>portal</a> | <a href='https://abcalculator.github.io/help/'>help</a> | info</center>
+<center><a href='https://abcalculator.github.io/portal/'>portal</a> | <a href='https://abcalculator.github.io/help/'>help</a> | about</center>
